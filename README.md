@@ -14,6 +14,7 @@ You can experiment with this code and familiarize yourself with the commonly use
 
 [web.dev](https://web.dev/learn/css/)
 #### Useful extensions for VS code:
+
 [Live server](https://www.youtube.com/watch?v=y4qqQeUDCBQ)
 
 [Auto close tags](https://www.youtube.com/watch?v=gL11AxMdi10)
