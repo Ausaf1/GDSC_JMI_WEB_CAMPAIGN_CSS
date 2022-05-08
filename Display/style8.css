@@ -1,0 +1,11 @@
+.block {
+  border: 2px solid rgb(187, 20, 20);
+  display: block;
+}
+.inline {
+  border: 2px solid rgb(187, 20, 20);
+  display: inline;
+}
+.hidden {
+  display: none;
+}

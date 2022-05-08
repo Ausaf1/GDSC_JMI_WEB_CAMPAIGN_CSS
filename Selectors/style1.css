@@ -1,0 +1,31 @@
+* {
+  color: hotpink;
+}
+
+.my-class {
+  color: red;
+}
+/* A href that contains "example.com" */
+[href*="example.com"] {
+  color: red;
+}
+
+/* A href that starts with https */
+[href^="https"] {
+  color: green;
+}
+
+/* A href that ends with .com */
+[href$=".com"] {
+  color: blue;
+}
+
+h1 {
+  /* border : 1px solid red; */
+  /* Tomato color */
+  background-color: rgb(255, 99, 71);
+  /* with 50% traparency */
+  background-color: rgb(255, 99, 71, 0.5);
+}
+
+/* Hexadecimal notation (often shortened to hex) is a shorthand syntax for RGB, which assigns a numeric value to red green and blue, which are the three primary colors. */

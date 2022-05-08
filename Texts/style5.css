@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@900&display=swap");
+
+h1 {
+  color: blue;
+  /* text-align: center; */
+  /* text-align: left; */
+  /* text-align: right; */
+}
+
+/* div {
+  text-align: justify;
+} */
+.capitalize {
+  text-transform: capitalize;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+.a {
+  letter-spacing: -0.1em;
+}
+
+.b {
+  letter-spacing: normal;
+}
+
+.c {
+  letter-spacing: 0.2em;
+}
+
+.d {
+  letter-spacing: 0.4em;
+}
+
+.e {
+  letter-spacing: 0.8em;
+}
+
+.a {
+  text-shadow: 0 1px 2px #0005;
+}
+
+.b {
+  color: #feff;
+  text-shadow: 1px 1px 2px #f01c, 1px -1px 2px #f0cc, -1px 1px 2px #f0fc,
+    -1px -1px 2px #f0fc, 0 0 16px #f0fa, 0 0 64px #f0fd;
+}
+
+.c {
+  color: lightyellow;
+  text-shadow: 1px 1px blue, 2px 2px 0 cyan, -1px -1px 0 red, -2px -2px 0 yellow;
+}
+
+.d {
+  color: gold;
+  text-shadow: -1px 1px 0 crimson, -2px 2px 0 crimson, -3px 3px 0 crimson,
+    -4px 4px 0 crimson, -5px 5px 0 crimson, -6px 6px 0 crimson;
+}
+
+.e {
+  color: midnightblue;
+  text-shadow: 0 1px 0 salmon, 0 2px 0 salmon, 0 3px 0 salmon;
+}
+
+.f {
+  color: transparent;
+  text-shadow: 0 0 5px #000c;
+}
+
+h1 {
+  color: #333;
+  font-family: "Fraunces", "Garamond", "Georgia", serif;
+}
+
+h1:not(:last-child) {
+  margin-bottom: 24px;
+}
+
+.container {
+  text-align: left;
+}

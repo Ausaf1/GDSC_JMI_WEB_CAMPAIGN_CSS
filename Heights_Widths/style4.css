@@ -1,0 +1,17 @@
+div {
+  max-width: 500px;
+  height: 100px;
+  background-color: rgb(89, 189, 202);
+}
+.my-box {
+  width: 200px;
+  border: 10px solid;
+  padding: 20px;
+  border: 2px solid #f00;
+}
+/* .my-box {
+  box-sizing: border-box;
+  width: 200px;
+  border: 10px solid;
+  padding: 20px;
+} */

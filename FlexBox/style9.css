@@ -1,0 +1,23 @@
+/* .container {
+  display: flex;
+  flex-direction: column;
+} */
+
+/* .container {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: nowrap;
+  flex-wrap: wrap;
+  flex-wrap: wrap-reverse;
+  border: 1px solid var(--color-primary);
+  background: rgb(121, 157, 235);
+  max-width: 400px;
+} */
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+}
+li {
+  flex-grow: 1;
+}
