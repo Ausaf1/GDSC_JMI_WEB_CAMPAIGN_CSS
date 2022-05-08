@@ -2,7 +2,7 @@
 ### Web+Firebase Campaign
 [![campaign-topics.png](https://i.postimg.cc/x8Rrxs1X/campaign-topics.png )](https://postimg.cc/SYJtjf84)
 
-This repository contains the all the HTML code that was discussed in the GDSC session. It covers the basics of HTML to help you get started with it. 
+This repository contains the all the CSS code that was discussed in the GDSC session. It covers the basics of CSS to help you get started with it. 
 You can experiment with this code and familiarize yourself with the commonly used tags. You can even use online code editors provided by websites like w3schools.
 ##
 #### Link to the ppt:
