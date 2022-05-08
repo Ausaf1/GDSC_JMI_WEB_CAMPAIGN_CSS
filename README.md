@@ -1,4 +1,4 @@
-# GDSC session on HTML
+# GDSC session on CSS
 ### Web+Firebase Campaign
 [![campaign-topics.png](https://i.postimg.cc/x8Rrxs1X/campaign-topics.png )](https://postimg.cc/SYJtjf84)
 
